@@ -1,0 +1,23 @@
+div.item {
+  min-width: 35vw; max-width: 70vw; min-height: 3vh;
+  background-color: #FAFAFA;
+  border: solid 1px #F0F0F0;
+  display: inline-grid;
+  padding: 1em;
+}
+div.bigger {
+  min-width: 35vw; max-width: 70vw; height: 15vh;
+  background-color: #FAFAFA;
+  border: solid 1px #F0F0F0;
+  display: inline-grid;
+  padding: 1em;
+}
+span.green {
+  color: #6CB330;
+}
+span.red {
+  color: #F33A3A;
+}
+button.btn {
+  width: 6vw; height: 4vh;
+}
